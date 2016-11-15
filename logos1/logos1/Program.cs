@@ -10,7 +10,18 @@ namespace logos1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Hi");
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+             
+            Console.WriteLine("Sum of {0} and  {1} = {2}", a , b , a+b);
+            Console.WriteLine("Multiplay of {0} and  {1} = {2}", a, b, a * b);
+            Console.WriteLine("IS_dev of {0} and  {1} = {2}", a, b, (float)a / b);
+            Console.WriteLine("Rizn of {0} and  {1} = {2}", a, b, a - b);
+            Console.WriteLine("Ostacha of {0} and  {1} = {2}", a, b, (float)a%b);
+
+
+            Console.ReadKey();
         }
     }
 }
