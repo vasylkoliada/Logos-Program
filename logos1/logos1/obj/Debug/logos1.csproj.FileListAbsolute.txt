@@ -7,3 +7,6 @@ c:\users\jobs\documents\visual studio 2015\Projects\logos1\logos1\obj\Debug\logo
 E:\C#\GitBush\Logos-Program\logos1\logos1\bin\Debug\logos1.exe.config
 E:\C#\GitBush\Logos-Program\logos1\logos1\obj\Debug\logos1.exe
 E:\C#\GitBush\Logos-Program\logos1\logos1\obj\Debug\logos1.pdb
+E:\C#\GitBush\Logos-Program\logos1\logos1\bin\Debug\logos1.exe
+E:\C#\GitBush\Logos-Program\logos1\logos1\bin\Debug\logos1.pdb
+E:\C#\GitBush\Logos-Program\logos1\logos1\obj\Debug\logos1.csprojResolveAssemblyReference.cache
