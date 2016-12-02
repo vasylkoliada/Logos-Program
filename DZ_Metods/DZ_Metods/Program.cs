@@ -16,10 +16,10 @@ namespace DZ_Metods
             int size = int.Parse(Console.ReadLine());
             int value = int.Parse(Console.ReadLine());
             int[] mas = new int[size];
+            Random a = new Random();
             for (int i = 0; i < size; i++)
             {
-                Random a = new Random();
-                mas[i] = a.GetHashCode()%5;
+                mas[i] = a.Next(10);
                 Console.WriteLine(" "+ mas[i]);
             }
            
